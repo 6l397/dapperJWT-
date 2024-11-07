@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\tindog_marketplace.props" />
+</Project>

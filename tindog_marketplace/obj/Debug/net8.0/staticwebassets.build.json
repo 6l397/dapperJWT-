@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "O5AVQZ3GfeThngyLJbh8BPiWKfEKcbuWbm0eB7piI5Q=",
+  "Source": "tindog_marketplace",
+  "BasePath": "_content/tindog_marketplace",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,2 @@
+.vs/tindog_marketplace/FileContentIndex/44e278e6-e48f-4e5b-a15b-1a80fc0b179a.vsidx
+.vs/
